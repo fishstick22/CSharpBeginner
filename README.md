@@ -1,2 +1,2 @@
-# CSharpBeginner
+# CSharpFundamentals
 ## C Sharp Basics for Beginners
